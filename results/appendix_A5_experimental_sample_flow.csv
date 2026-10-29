@@ -1,0 +1,6 @@
+Processing stage,Training,Validation,Test
+Chronological split,2338922.0,388783.0,386806
+After warm-up-customer eligibility,1590349.0,222804.0,232067
+After eligible-target preparation,973400.0,62127.0,58085
+Final LR experimental sample,400000.0,20000.0,20000
+Fresh LightGBM test holdout,,,38085

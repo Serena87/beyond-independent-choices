@@ -1,0 +1,13 @@
+Algorithm,Model,Metric,Original,LensKit,Discrepancy
+Logistic Regression,Independent-choice,Hit@10,0.6056,0.6056,0.0
+Logistic Regression,Independent-choice,MRR@10,0.33547634920634917,0.33547634920634917,0.0
+Logistic Regression,Independent-choice,NDCG@10,0.39906048841178865,0.39906048841178865,0.0
+Logistic Regression,Episode-context,Hit@10,0.7652,0.7652,0.0
+Logistic Regression,Episode-context,MRR@10,0.5277178174603174,0.5277178174603174,0.0
+Logistic Regression,Episode-context,NDCG@10,0.5842849086564352,0.5842849086564352,0.0
+LightGBM,Independent-choice,Hit@10,0.6821320729946173,0.6821320729946173,0.0
+LightGBM,Independent-choice,MRR@10,0.4018696587207812,0.4018696587207812,0.0
+LightGBM,Independent-choice,NDCG@10,0.4682646416931861,0.4682646416931861,0.0
+LightGBM,Episode-context,Hit@10,0.8174871996849153,0.8174871996849153,0.0
+LightGBM,Episode-context,MRR@10,0.5880231979011027,0.5880231979011027,0.0
+LightGBM,Episode-context,NDCG@10,0.642950081989996,0.642950081989996,0.0
