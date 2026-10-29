@@ -1,0 +1,19 @@
+# Raw H&M Kaggle data
+data/raw/*.csv
+data/raw/*.parquet
+data/raw/images/
+
+# Generated processed datasets
+data/processed/*.csv
+data/processed/*.parquet
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Local environments
+.venv/
+venv/
